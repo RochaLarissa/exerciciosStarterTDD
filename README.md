@@ -1,6 +1,6 @@
 # Desafio TDD
 
-> Aplicando os conhecimentos em TDD e testes de unidade nos exercícios de POO.
+> Trata-se de um desafio do programa Starter 4 da GFT. Nesse projeto apliquei meus conhecimentos em Test Driven Development e Testes de Unidade nos exercícios de POO[https://github.com/RochaLarissa/exerciciosPooJava].
 
 A atividade foi realizada usando o Eclipse como IDE, Java 17.0.3.1, JUnit 5.4.0 e Maven 3.8.1 (Infelizmente builda no Maven, mas não está rodando os testes como deveria :/). 
 
@@ -10,9 +10,6 @@ Na pasta "test" estão todos os testes de unidade separados em packages por ques
 
 Para rodar os testes basta rodar como JUnit Test.
  
-
-
-![](../header.png)
 
 # Exceeds
 
@@ -45,11 +42,3 @@ https://dojopuzzles.com/problems/geracao-de-fatores-primos/
 
 Larissa Pereira Rocha – larissa.rocha@gft.com
 
-
-
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/seunome/seuprojeto/wiki
